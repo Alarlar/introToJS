@@ -1,3 +1,4 @@
+// the starting size for the sun
 noStroke();
 // the beautiful blue sky
 var sunSize = 30;
