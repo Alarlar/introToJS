@@ -1,4 +1,4 @@
-var x = 300;
+//declaring variables for the center of frog's facevar x = 300;
 var y = 300;
 var pupilSize = 10;
 noStroke();
